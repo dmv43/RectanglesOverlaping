@@ -12,6 +12,7 @@ public class Rectangles {
     final double x22 = 4.0;
     final double y22 = 5.7;
 
+    int testingValue = 0; //testing GitHub patches
     public void calculate() {
         double middleX1 = (x11 + x12) / 2;
         //System.out.println(middleX1);
